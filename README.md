@@ -47,3 +47,27 @@ Smoothing=30
 [ESP]
 TeamColor=0,255,0
 EnemyColor=255,0,0
+```
+
+## ❗ Disclaimer
+- Educational Use Only: This repository is for research purposes.
+
+- Risk of Ban: Using cheats in online games violates Fortnite's Terms of Service.
+
+- No Liability: Use at your own risk.
+
+## 📜 License
+- This project is licensed under the Unlicense, granting full freedom to use, modify, and distribute.
+
+## 💡 Contributing
+- Fork the repository.
+
+- Create a branch: 
+
+```bash
+git checkout -b feature/new-feature.
+```
+
+- Commit changes.
+
+- Push to the branch and open a Pull Request.
